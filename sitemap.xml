@@ -8,7 +8,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
        <loc>http://www.smartlove.fr/</loc>
-       <lastmod>2014-04-05T12:00:00+00:00</lastmod>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
        <changefreq>monthly</changefreq>
        <priority>1.0000</priority>
   </url>
@@ -17,6 +17,96 @@
        <lastmod>2014-04-05T12:00:00+00:00</lastmod>
        <changefreq>monthly</changefreq>
        <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/beauvais</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/bordeaux</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/calais</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/dijon</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/grenoble</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/lille</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/lorient</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/lyon</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/marseille</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/montpellier</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/nantes</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/nice</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/paris</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/toulouse</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
+  </url>
+  <url>
+       <loc>http://www.smartlove.fr/rencontres/a/troyes</loc>
+       <lastmod>2014-04-12T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.4000</priority>
   </url>
   <url>
        <loc>http://blog.smartlove.fr/</loc>
